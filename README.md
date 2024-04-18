@@ -35,6 +35,6 @@ pip automatic download & update
 pip install pyinstaller
 ```
 ```
-pyinstaller –F + Project name.py
+pyinstaller –F Convert-system-information-to-CSV-progress-bar-version.py
 ```
 This will generate a folder named dist in the current directory containing the packaged executable file.
