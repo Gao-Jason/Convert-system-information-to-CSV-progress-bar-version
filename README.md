@@ -5,11 +5,11 @@ This is Python version 3.X
 ![License](https://img.shields.io/pypi/pyversions/3)
 
 
-Using Python
+🚀Using Python
 ====
 Installable Python kits, and information about using Python, are available at [python.org](https://www.python.org/)。
 
-project instruction
+✏️project instruction
 ====
 This is a program that can record the hard disk, CPU, and memory, and write the records into an Excel file through a CSV-like method, and if there is repeated execution on the day, it will also be marked additionally.
 ![1713260715143](https://github.com/Gao-Jason/Convert-system-information-to-CSV-progress-bar-version/assets/95835382/747a5c43-0cf9-4a33-8b15-3d032414f413)
